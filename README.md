@@ -1,7 +1,7 @@
 # Hi, I'm Mustafa 👋
 
 ## 👨‍💻 About Me
-Backend Developer | 💠 C# | 🟣 .NET | 🗄️ MSSQL & 🐘 PostgreSQL | ⚙️ Microservices | 🐧 Linux & 🛡️ Kali Linux | 🌐 Web Testing
+Backend Developer | 💠 C# | 🟣 .NET | 🗄️ MSSQL & 🐘 PostgreSQL | ⚙️ Microservices & Layered/MVC Architectures | 🐧 Linux & 🛡️ Kali Linux | 🌐 Web Testing
 
 - 📚 Currently learning **Microservices & Cloud Architecture**
 - 💻 Passionate about **Clean Code & Open Source**
