@@ -18,6 +18,10 @@ Backend Developer | 💠 C# | 🟣 .NET | 🗄️ MSSQL & 🐘 PostgreSQL | ⚙�
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Web Testing](https://img.shields.io/badge/Web_Testing-1ABC9C?style=for-the-badge&logo=selenium&logoColor=white)
+![MVC Architecture](https://img.shields.io/badge/MVC-FF6F61?style=for-the-badge&logo=dot-net&logoColor=white)
+![Layered Architecture](https://img.shields.io/badge/Layered-6A5ACD?style=for-the-badge&logo=dot-net&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-20BF55?style=for-the-badge&logo=dot-net&logoColor=white)
+
 
 ## 📫 Contact
 - Email: mustafa@example.com
